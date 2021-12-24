@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kdoomsday
 - 👀 I’m interested in Scala and FP
-- 🌱 I’m currently learning a few odd things including Indigo and Slinky
+- 🌱 I’m currently learning things, tools, tooling, etc.
 - 📫 How to reach me: kdoomsday@gmail.com
 
 <!---
